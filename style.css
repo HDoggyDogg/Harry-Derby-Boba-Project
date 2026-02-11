@@ -1,0 +1,11 @@
+img {
+    width:400px;
+    height: 400px;
+}
+body {
+    text-align: center;
+    font-family: 'Berlin Sans FB';
+    Background: rgb(0, 119, 255);
+    color: whitesmoke;
+    font-size: 20px;
+}
